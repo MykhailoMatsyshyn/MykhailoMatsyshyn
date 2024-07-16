@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @MykhailoMatsyshyn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Alla Kaplia</h1>
 
-<!---
-MykhailoMatsyshyn/MykhailoMatsyshyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="center">My skills</h3>
+<h3 align="left">Frontend:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind)](https://skillicons.dev)
+
+<h3 align="left">Backend:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres)](https://dou.ua/users/alla-kaplia/topics/)
