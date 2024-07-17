@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I'm Mykhailo Matsyshyn</h1>
+<h1 align="center">Hi 👋</h1>
