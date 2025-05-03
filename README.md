@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://media.tenor.com/Z6gmDPeM6dgAAAAM/dance-moves.gif" alt="Loading animation" />
+  <img src="https://media1.tenor.com/m/NJCxMn-lww4AAAAd/alien-alien-dance.gif" alt="Loading animation" />
 </p
